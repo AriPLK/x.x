@@ -1,2 +1,2 @@
 # x.x
-gena durak
+gena durak cogl
